@@ -26,25 +26,7 @@ const Home: NextPage = () => {
           ab officiis illo voluptates recusandae. Vel dolor nobis eius, ratione atque
           soluta, aliquam fugit qui iste architecto perspiciatis. Nobis, voluptatem!
           Cumque, eligendi unde aliquid minus quis sit debitis obcaecati error,
-          delectus quo eius exercitationem tempore. Delectus sapiente, provident
-          corporis dolorum quibusdam aut beatae repellendus est labore quisquam
-          praesentium repudiandae non vel laboriosam quo ab perferendis velit ipsa
-          deleniti modi! Ipsam, illo quod. Nesciunt commodi nihil corrupti cum non
-          fugiat praesentium doloremque architecto laborum aliquid. Quae, maxime
-          recusandae? Eveniet dolore molestiae dicta blanditiis est expedita eius
-          debitis cupiditate porro sed aspernatur quidem, repellat nihil quasi
-          praesentium quia eos, quibusdam provident. Incidunt tempore vel placeat
-          voluptate iure labore, repellendus beatae quia unde est aliquid dolor
-          molestias libero. Reiciendis similique exercitationem consequatur, nobis
-          placeat illo laudantium! Enim perferendis nulla soluta magni error,
-          provident repellat similique cupiditate ipsam, et tempore cumque quod! Qui,
-          iure suscipit tempora unde rerum autem saepe nisi vel cupiditate iusto.
-          Illum, corrupti? Fugiat quidem accusantium nulla. Aliquid inventore commodi
-          reprehenderit rerum reiciendis! Quidem alias repudiandae eaque eveniet
-          cumque nihil aliquam in expedita, impedit quas ipsum nesciunt ipsa ullam
-          consequuntur dignissimos numquam at nisi porro a, quaerat rem repellendus.
-          Voluptates perspiciatis, in pariatur impedit, nam facilis libero dolorem
-          dolores sunt inventore perferendis, aut sapiente modi nesciunt.
+          delectus quo eius exercitat
         </Typography>
       </Box>
     </Container>
