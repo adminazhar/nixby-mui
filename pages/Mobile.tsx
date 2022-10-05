@@ -24,7 +24,7 @@ const Home: NextPage = () => {
                 color="text.secondary"
                 gutterBottom
               >
-                Word of the Day
+                Latest Mobiles
               </Typography>
               <Typography variant="h5" component="div">
                 Hello world 123 hello
