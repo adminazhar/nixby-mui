@@ -27,7 +27,7 @@ const Home: NextPage = () => {
                 Latest Mobiles
               </Typography>
               <Typography variant="h5" component="div">
-                Hello world 123 hello
+                Mobile Brands
               </Typography>
               <Typography sx={{ mb: 1.5 }} color="text.secondary">
                 adjective
